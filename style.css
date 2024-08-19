@@ -1,34 +1,32 @@
      h2 {
-     color:blue;
-     font-size: 18px;
+     color:black;
+     font-size: 24px;
     }
     p{font-size: 12px; color:maroon;
     }
-    #About{text-transform: uppercase; color: teal;
+    #About{text-transform: uppercase; color: black;font-family:bold; text-transform:capitalize;font-size:24px;
     }
     .uppercase{text-transform: uppercase;
     }
-     #About{font-family:cursive; text-transform:capitalize;background-color: #3c80df;
+    .Contactform{font-family:bold; text-transform: uppercase;font-size:24px;
     }
-    .Contactform{font-family:bold; text-transform: uppercase;
+    .list li{color: maroon;font-size:22px;
     }
-    .list li{color: green;
-    }
-    .title{text-transform: uppercase;
+    .title{text-transform: uppercase;font-family:bold;
     }
     .Accomplishments{text-transform: uppercase;
      }
-     .Sklist{text-transform: uppercase;background-color: #3c80df;
+     .Sklist{text-transform: uppercase;font-size:22px;
      }
-     body{font-family: Arial;
+     body{font-family: Arial;font-size:24px;
      }
      h1{text-align: left;
      }
-     #contactsection{background-color: #3c80df;
+     #contactsection{font-size:18px;
      }
      #Accomplishment{border: 2px solid black;border-collapse: collapse;padding: 10px;
      }
-     #Hira-Dahal.png{border-radius: 100%;
+     #Hira-Dahal.png{border-radius: 00%;
      }
      .topnav .icon{
           display:none;
